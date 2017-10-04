@@ -1,0 +1,18 @@
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\DocDb.DotNetSdk.exe.config
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\DocDb.DotNetSdk.exe
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\DocDb.DotNetSdk.pdb
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\obj\Debug\DocDb.DotNetSdk.csprojResolveAssemblyReference.cache
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\obj\Debug\DocDb.DotNetSdk.exe
+C:\Projects\Demo Code\DocumentDBDemos.VS2013\Code\Module456\DocDb.DotNetSdk\obj\Debug\DocDb.DotNetSdk.pdb
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\bin\Debug\DocDb.DotNetSdk.exe.config
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\bin\Debug\DocDb.DotNetSdk.exe
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\bin\Debug\DocDb.DotNetSdk.pdb
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\obj\Debug\DocDb.DotNetSdk.csprojResolveAssemblyReference.cache
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\obj\Debug\DocDb.DotNetSdk.exe
+C:\Users\hmori\Downloads\azure-documentdb-introduction\5-azure-documentdb-introduction-m5-exercise-files\Module456\DocDb.DotNetSdk\obj\Debug\DocDb.DotNetSdk.pdb
